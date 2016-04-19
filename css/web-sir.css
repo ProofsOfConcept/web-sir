@@ -1,0 +1,37 @@
+#wrapper {
+
+}
+
+.web-sir-brand {
+    padding: 1px 15px;
+}
+
+.web-sir-header {
+    width: 100%;
+    height: 52px;
+}
+
+.web-sir-footer-text {
+    width: 100%;
+    text-align: center;
+}
+
+.web-sir-footer {
+    height: 50px;
+}
+
+.web-sir-body {
+    min-height: 100%;
+    height: auto !important;
+    padding: 0 5px;
+}
+
+.td-center {
+    text-align: center;
+}
+
+.web-sir-sintoma-out {
+    overflow: auto;
+    word-wrap: normal;
+    white-space: pre;
+}
